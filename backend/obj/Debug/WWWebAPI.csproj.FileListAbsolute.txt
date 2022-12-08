@@ -1,0 +1,249 @@
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\WWWebAPI.dll.config
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\WWWebAPI.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\WWWebAPI.pdb
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csc.exe
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csc.exe.config
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csc.rsp
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csi.exe
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csi.exe.config
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\csi.rsp
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.AppContext.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Console.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.IO.Compression.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Net.Http.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Net.Sockets.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.ValueTuple.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\vbc.exe
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\vbc.exe.config
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\vbc.rsp
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\VBCSCompiler.exe
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Antlr3.Runtime.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Newtonsoft.Json.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Net.Http.Formatting.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Helpers.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.WebHost.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Mvc.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Optimization.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Razor.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\WebGrease.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Newtonsoft.Json.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Net.Http.Formatting.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Helpers.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.WebHost.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Mvc.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Optimization.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Razor.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Antlr3.Runtime.pdb
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\obj\Debug\WWWebAPI.csproj.AssemblyReference.cache
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\obj\Debug\WWWebAPI.csproj.CoreCompileInputs.cache
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\obj\Debug\WWWebAPI.csproj.CopyComplete
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\obj\Debug\WWWebAPI.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\obj\Debug\WWWebAPI.pdb
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Cors.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.Cors.dll
+E:\University\Semester 7\Week-4\CoreAPI\WWWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\WWWebAPI.dll.config
+C:\Users\SCS\Downloads\WWWebAPI\bin\WWWebAPI.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\WWWebAPI.pdb
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csc.exe
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csc.exe.config
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csc.rsp
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csi.exe
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csi.exe.config
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\csi.rsp
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Console.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\vbc.exe
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\vbc.rsp
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\SCS\Downloads\WWWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SCS\Downloads\WWWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Cors.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Helpers.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Mvc.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Optimization.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Razor.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\WebGrease.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Helpers.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Mvc.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Optimization.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.Razor.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SCS\Downloads\WWWebAPI\obj\Debug\WWWebAPI.csproj.AssemblyReference.cache
+C:\Users\SCS\Downloads\WWWebAPI\obj\Debug\WWWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SCS\Downloads\WWWebAPI\obj\Debug\WWWebAPI.csproj.CopyComplete
+C:\Users\SCS\Downloads\WWWebAPI\obj\Debug\WWWebAPI.dll
+C:\Users\SCS\Downloads\WWWebAPI\obj\Debug\WWWebAPI.pdb
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Buffers.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Memory.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Numerics.Vectors.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Buffers.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Memory.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Numerics.Vectors.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\SCS\Downloads\WWWebAPI\bin\System.Threading.Tasks.Extensions.xml
