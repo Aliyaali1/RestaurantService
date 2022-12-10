@@ -1,9 +1,11 @@
+import { Button, IconButton } from '@chakra-ui/react';
 import axios from 'axios';
 import React, { Component, useEffect, useState } from 'react';
 import {ScrollRestoration} from 'react-router-dom';
 import data from './data';
 import Shop from './shop';
-const MenuItem=({item,handleClick,postDelete,setPost,admin})=> { 
+import { StarIcon } from '@chakra-ui/icons';
+const MenuItem=({item,handleClick,postDelete,setPost,admin, IoD, setIoD})=> { 
     const {ID,FoodName, ImageURL,Price} = item;
     const [pricee, setPricee] = useState(null);
 
@@ -15,7 +17,7 @@ const MenuItem=({item,handleClick,postDelete,setPost,admin})=> {
     
     useEffect(()=>{
        
-        setPricee(localStorage.getItem('pricee'));
+        setPricee(localStorage.getItem('pricee') ?? 0);
 
 
     },[])
@@ -26,9 +28,10 @@ const MenuItem=({item,handleClick,postDelete,setPost,admin})=> {
                 <div className="card-body">
                 <h5 className="card-title" >{FoodName}</h5>
                 <p className="card-text" > Rs {Price}</p>
+                { admin && <Button onClick={() => (IoD !== null && IoD.ID === ID) ? setIoD(null) : setIoD({ ID, imageURL: ImageURL, foodName: FoodName })} size="sm" colorScheme="yellow" variant="solid">Item of the Day</Button> }
                 {<button className="btn btn-primary btn-sm" onClick={()=>handleClick(item)}>Add to Cart</button>} 
                 {admin && <button className="btn btn-primary btn-sm" onClick={(e)=>postDelete(ID,e)}>Delete Item</button>}
-                {admin && <input placeholder='update price' value={pricee} onChange={(e)=>setPricee(e.target.value)} ></input>}
+                {admin && <input placeholder='update price' value={pricee ?? 0} onChange={(e)=>setPricee(e.target.value)} ></input>}
                 {admin && <div><button className="btn btn-primary btn-sm" onClick={updatePrice} >Update Price</button></div>}
                 </div>
                 </div>
