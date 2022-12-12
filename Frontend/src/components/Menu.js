@@ -59,7 +59,7 @@ const Menu = ({ handleClick, admin }) => {
     <div className='container my-3'>
       <h2>Menu</h2>
       {IoD && (
-        <Box>
+        <div><Box>
           <Stack>
             <Heading as="h2">Item of the Day!</Heading>
             <Card direction="row">
@@ -72,6 +72,7 @@ const Menu = ({ handleClick, admin }) => {
             </Card>
           </Stack>
         </Box>
+        </div>
       )}
       <div className='row'>
         {post.map((item) => {

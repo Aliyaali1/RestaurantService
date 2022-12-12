@@ -28,8 +28,10 @@ const MenuItem=({item,handleClick,postDelete,setPost,admin, IoD, setIoD})=> {
                 <div className="card-body">
                 <h5 className="card-title" >{FoodName}</h5>
                 <p className="card-text" > Rs {Price}</p>
+                <div>
                 { admin && <button onClick={() => (IoD !== null && IoD.ID === ID) ? setIoD(null) : setIoD({ ID, imageURL: ImageURL, foodName: FoodName })} size="sm" colorScheme="yellow" variant="solid">Item of the Day</button> }
-                {<button className="btn btn-primary btn-sm" onClick={()=>handleClick(item)}>Add to Cart</button>} 
+                </div>
+                {!admin && <button className="btn btn-primary btn-sm" onClick={()=>handleClick(item)}>Add to Cart</button>} 
                 {admin && <button className="btn btn-primary btn-sm" onClick={(e)=>postDelete(ID,e)}>Delete Item</button>}
                 {admin && <input placeholder='update price' value={pricee ?? 0} onChange={(e)=>setPricee(e.target.value)} ></input>}
                 {admin && <div><button className="btn btn-primary btn-sm" onClick={updatePrice} >Update Price</button></div>}

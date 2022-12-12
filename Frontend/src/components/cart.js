@@ -9,6 +9,8 @@ const Cart = ({ cart, setCart, handleChange }) => {
 	// aggregated cart
 	const [aggCart, setAggCart] = useState({});
 	const { isOpen, onOpen, onClose } = useDisclosure();
+	const [email,setEmail]= useState('');
+
 
 	useEffect(() => {
 		const aggCartObj = Object.assign({}, aggCart);
@@ -56,6 +58,24 @@ const Cart = ({ cart, setCart, handleChange }) => {
 		setCart([])
 
 	}
+	
+	const clickEmail=()=>{
+	 let newemail=email.replace('%40', '@');
+	 let urll='https://iptuaz.azurewebsites.net/api/HttpTrigger1?code=c0LIRkQw0YX6Omv8Z8stDqodaftrZoLEiZhonExbaKduAzFu5rSJEQ==&name=' + newemail;
+	 console.log("new=",newemail);
+
+		axios.get(urll, {
+	params: {
+		
+	}
+})
+.then(() => {
+	console.log("EMAIL SENT");
+})
+.catch(() => {
+    console.log("ENTER CORRECT EMAIL");
+})
+	}
 
 	return (
 		<>
@@ -82,7 +102,10 @@ const Cart = ({ cart, setCart, handleChange }) => {
 				<span>Total Price of your Cart</span>
 				<span>Rs - {price}</span>
 			</div>
-			<button onClick={onOpen}>Confirm Receipt</button>
+			<div>	
+				<input placeholder='Enter email' value={email} onChange={(e) => setEmail(e.target.value)}/>
+			</div>
+			<button onClick={()=>{onOpen(); clickEmail();}}>Confirm Receipt</button>
 		</article>
 		<Modal isOpen={isOpen} onClose={onClose}>
 			<ModalOverlay />
